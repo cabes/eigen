@@ -5,6 +5,7 @@
 * __State:__ production
 * __Point People:__ [@alloy](https://github.com/alloy), [@orta](https://github.com/orta)
 * __CI :__  [![Build Status](https://circleci.com/gh/artsy/eigen/tree/master.svg?style=shield&circle-token=f7a3e9b08ab306cd01a15da49933c0774d508ecb)](https://circleci.com/gh/artsy/eigen)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Feigen.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Feigen?ref=badge_shield)
 
 This is a core [Artsy Mobile](https://github.com/artsy/mobile) OSS project, along with [Energy](https://github.com/artsy/energy), [Eidolon](https://github.com/artsy/eidolon), [Emission](https://github.com/artsy/emission) and [Emergence](https://github.com/artsy/emergence).
 
@@ -48,3 +49,6 @@ Thanks to all [our contributors](/docs/thanks.md).
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Feigen.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Feigen?ref=badge_large)
